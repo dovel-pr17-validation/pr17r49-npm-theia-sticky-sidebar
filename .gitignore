@@ -1,0 +1,12 @@
+.directory
+/node_modules
+/.idea
+/dist/
+/.nyc_output
+/coverage
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
